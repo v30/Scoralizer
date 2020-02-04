@@ -6,7 +6,9 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 
+import za.co.ncdscoding.scoralizer.activities.hole.HoleActivity;
 import za.co.ncdscoding.scoralizer.activities.round.RoundActivity;
+import za.co.ncdscoding.scoralizer.activities.shot.ShotActivity;
 
 public class MainActivity extends AppCompatActivity {
 

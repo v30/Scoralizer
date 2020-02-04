@@ -17,4 +17,109 @@
     <string name="what_is_the_course_par">What is the course par?</string>
     <string name="what_is_your_handicap_index_at_this_course">What is your handicap index at this course?</string>
     <string name="please_select_the_round_date">Please select the round date?</string>
+    <string name="shot_number">SN</string>
+    <string name="shot_type">Shot Type</string>
+    <string name="target_distance">Target Distance</string>
+    <string name="club_selected">Club Selected</string>
+    <string name="ball_flight">Ball Flight</string>
+    <string name="hole_number_placeholder">HN</string>
+    <string name="shot_outcome">Shot Outcome</string>
+    <string name="putt_outcome">Putt Outcome</string>
+    <string name="miss_location">Miss Location</string>
+    <string name="par">Par</string>
+    <string name="stroke">Stroke</string>
+    <string name="hole_number">Hole Number</string>
+    <string-array name="shot_types">
+        <item>Drive</item>
+        <item>Approach</item>
+        <item>Layup</item>
+        <item>Pitch</item>
+        <item>Chip</item>
+        <item>Putt</item>
+    </string-array>
+    <string-array name="club_selected">
+        <item>Driver</item>
+        <item>3 Wood</item>
+        <item>5 Wood</item>
+        <item>3 Hybrid</item>
+        <item>4 Hybrid</item>
+        <item>5 Hybrid</item>
+        <item>2 Iron</item>
+        <item>3 Iron</item>
+        <item>4 Iron</item>
+        <item>5 Iron</item>
+        <item>6 Iron</item>
+        <item>7 Iron</item>
+        <item>8 Iron</item>
+        <item>9 Iron</item>
+        <item>Pitching Wedge</item>
+        <item>Sand Wedge</item>
+        <item>Gap Wedge</item>
+        <item>Lob Wedge</item>
+    </string-array>
+    <string-array name="ball_flight">
+        <item>High Draw</item>
+        <item>Mid Draw</item>
+        <item>Low Draw</item>
+        <item>High Straight</item>
+        <item>Mid Straight</item>
+        <item>Low Straight</item>
+        <item>High Fade</item>
+        <item>Mid Fade</item>
+        <item>Low  Fade</item>
+    </string-array>
+    <string-array name="shot_outcome">
+        <item>Fairway</item>
+        <item>Rough</item>
+        <item>Water Hazard</item>
+        <item>Bunker</item>
+        <item>Fringe</item>
+        <item>Green</item>
+        <item>Hole</item>
+    </string-array>
+    <string-array name="putt_outcome">
+        <item>Hole</item>
+        <item>1ft</item>
+        <item>3ft</item>
+        <item>6ft</item>
+        <item>10ft</item>
+        <item>15ft</item>
+    </string-array>
+    <string-array name="shot_miss">
+        <item>Hit Target</item>
+        <item>Long Left</item>
+        <item>Pin Left</item>
+        <item>Short Left</item>
+        <item>Long Straight</item>
+        <item>Pin Straight</item>
+        <item>Short Straight</item>
+        <item>Long Right</item>
+        <item>Pin Right</item>
+        <item>Short Right</item>
+    </string-array>
+    <string-array name="hole_stroke_numbers">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+    </string-array>
+    <string-array name="par">
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
 </resources>

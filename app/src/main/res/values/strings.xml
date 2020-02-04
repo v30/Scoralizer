@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Scoralizer</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="new_round">Start New Round</string>
+    <string name="new_round_title">Starting A New Round</string>
+    <string name="course_name">What is the name of the Course?</string>
+    <string name="what_is_the_course_par">What is the course par?</string>
+    <string name="what_is_your_handicap_index_at_this_course">What is your handicap index at this course?</string>
+    <string name="please_select_the_round_date">Please select the round date?</string>
+</resources>
